@@ -1205,7 +1205,7 @@ python-versions = "*"
 
 [[package]]
 name = "typer"
-version = "0.3.2"
+version = "0.7.0"
 description = "Typer, build great CLIs. Easy to code. Based on Python type hints."
 category = "main"
 optional = false
